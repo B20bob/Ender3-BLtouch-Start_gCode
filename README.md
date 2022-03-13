@@ -7,4 +7,4 @@ This is just a place for me to store this code in case I ever need it in the fut
 
 
 # Ender3-End_gCode
-Custom End gCode which extracts filament at beginning of end gCode sequence.
+Custom End gCode for Ender 3 / Ender 3 Pro / Ender Extender 400xl which extracts filament at beginning of end gCode sequence.
